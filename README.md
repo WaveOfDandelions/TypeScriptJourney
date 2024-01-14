@@ -1,0 +1,2 @@
+# TypeScriptJourney
+Typescript Intensive
